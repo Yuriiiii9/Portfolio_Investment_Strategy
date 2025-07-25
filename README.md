@@ -1,7 +1,5 @@
 # Portfolio_Investment_Strategy
 
-# 📈 Portfolio Investment Strategy
-
 This project develops a **systematic long-short equity strategy** that predicts monthly stock excess returns and constructs dynamically rebalanced portfolios based on machine learning signals. The strategy is evaluated out-of-sample from **2010 to 2023** and consistently outperforms the S&P 500 benchmark.
 
 ## 🚀 Project Summary
