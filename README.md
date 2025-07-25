@@ -54,14 +54,12 @@ We implement multiple models to forecast stock-level excess returns and earnings
 ## 🗂️ Folder Structure (Typical)
 
 Portfolio_Investment_Strategy/
-├── data/ # Raw and processed firm + macro data
-├── models/ # Model training and prediction scripts
-├── results/ # Stored predictions and portfolio weights
-├── evaluation/ # Backtest and performance analysis
-├── utils/ # Feature generation and data loading
-├── notebooks/ # Exploratory and summary notebooks
-└── README.md # Project description (this file)
-
+├── data/ # Raw and processed input data (firm + macro)
+├── notebooks/ # Exploratory data analysis and model evaluation notebooks
+├── results/ # Model predictions and evaluation outputs
+├── .gitignore # Files and folders excluded from version control
+├── README.md # Project overview and documentation
+├── requirements.txt # Python dependencies
 
 ## 🔍 Key Insights
 
