@@ -51,15 +51,17 @@ We implement multiple models to forecast stock-level excess returns and earnings
 - Equal-weighted strategy achieves higher return and alpha  
 - Market-weighted strategy offers better downside control and smoother returns
 
-## 🗂️ Folder Structure (Typical)
+## 🗂️ Folder Structure
 
+```
 Portfolio_Investment_Strategy/
-├── data/ # Raw and processed input data (firm + macro)
-├── notebooks/ # Exploratory data analysis and model evaluation notebooks
-├── results/ # Model predictions and evaluation outputs
-├── .gitignore # Files and folders excluded from version control
-├── README.md # Project overview and documentation
+├── data/            # Input data (firm-level and macroeconomic features)
+├── notebooks/       # Model training, evaluation, and visualization notebooks
+├── results/         # Stored predictions and R² performance results
+├── .gitignore       # Ignored files and folders
+├── README.md        # Project overview and documentation
 ├── requirements.txt # Python dependencies
+```
 
 ## 🔍 Key Insights
 
